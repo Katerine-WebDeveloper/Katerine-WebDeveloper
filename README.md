@@ -33,21 +33,14 @@ Currently, I am focused on enhancing my skills in web development through hands-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="[https://www.linkedin.com](https://www.linkedin.com/in/katerine-cespedes-4717521b9/)" target="_blank" rel="noreferrer">
+ <a href="https://www.linkedin.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
     alt="linkedin" width="40" height="40" />
 </a>
-
-<a href="https://www.instagram.com/keith.codee/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg"
-    alt="instagram" width="40" height="40" />
+<a href="https://www.instagram.com/keith.codee/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+    alt="_._.adam._" height="30" width="40" />
 </a>
-
-</p>
-
- 
-
-
 </p>
 📫 Contact: katerinecesbal@hotmail.com.com
 <br>
