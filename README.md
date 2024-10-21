@@ -1,4 +1,4 @@
-# Hello 👋 I'm Keith
+# Hello 👋 I'm Kate
 
 ✨ I'm passionate about building intuitive and responsive web applications. I enjoy transforming ideas into interactive, user-friendly digital experiences. I am constantly expanding my knowledge in front-end and back-end development, aiming to stay up-to-date with the latest industry trends.
 
