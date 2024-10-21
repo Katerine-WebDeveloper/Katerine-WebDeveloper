@@ -45,7 +45,7 @@ Currently, I am focused on enhancing my skills in web development through hands-
     alt="_._.adam._" height="30" width="40" />
 </a>
 </p>
-📫 Contact: katerinecesbal@hotmail.com.com
+📫 Contact: katerinecesbal@hotmail.com
 <br>
 
 
