@@ -1,5 +1,7 @@
 # Hello 👋 I'm Kate
 
+![Profile Views](https://komarev.com/ghpvc/?username=Katerine-WebDeveloper&color=blue)
+
 ✨ I'm passionate about building intuitive and responsive web applications. I enjoy transforming ideas into interactive, user-friendly digital experiences. I am constantly expanding my knowledge in front-end and back-end development, aiming to stay up-to-date with the latest industry trends.
 
 Currently, I am focused on enhancing my skills in web development through hands-on projects, exploring new frameworks, and diving deeper into responsive design and clean code principles. I believe in the power of teamwork and effective communication, and I am always looking for opportunities to collaborate with others and solve complex problems.
