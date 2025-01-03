@@ -43,19 +43,16 @@ Currently, I am focused on enhancing my skills in web development through hands-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-   <a href="https://https://www.linkedin.com/in/katerine-cespedes-4717521b9/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    alt="adam pithewan" height="30" width="40" />
-</a>
-
-</a>
-<a href="https://www.instagram.com/keith.codee/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-    alt="_._.adam._" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/katerine-cespedes-4717521b9/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+    alt="Katerine Cespedes" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/keith.codee/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+    alt="Keith.codee" height="30" width="40" />
+  </a>
 </p>
-📫 Contact: katerinecesbal@hotmail.com
+📫 Contact: <a href="mailto:katerinecesbal@hotmail.com">katerinecesbal@hotmail.com</a>
 <br>
 
 
