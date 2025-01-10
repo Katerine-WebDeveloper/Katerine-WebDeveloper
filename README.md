@@ -1,7 +1,7 @@
 # Hello 👋 I'm Kate
 
 <div align="center">
-  <img src="https://i.pinimg.com/736x/e6/1b/c3/e61bc3b81792571815a652e7625a35bb.jpg" alt="Animationimggirl" height="200px" >
+  <img src="https://i.pinimg.com/736x/e6/1b/c3/e61bc3b81792571815a652e7625a35bb.jpg" alt="Animationimggirl" height="300px" >
 </div>
 
 
