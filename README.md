@@ -1,5 +1,8 @@
 # Hello 👋 I'm Kate
 
+![Animationimggirl](https://i.pinimg.com/736x/e6/1b/c3/e61bc3b81792571815a652e7625a35bb.jpg)
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Katerine-WebDeveloper&color=blue)
 
 ✨ I'm passionate about building intuitive and responsive web applications. I enjoy transforming ideas into interactive, user-friendly digital experiences. I am constantly expanding my knowledge in front-end and back-end development, aiming to stay up-to-date with the latest industry trends.
