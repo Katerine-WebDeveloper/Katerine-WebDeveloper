@@ -1,6 +1,9 @@
 # Hello 👋 I'm Kate
 
-![Animationimggirl](https://i.pinimg.com/736x/e6/1b/c3/e61bc3b81792571815a652e7625a35bb.jpg)
+<div align="center">
+  <img src="https://i.pinimg.com/736x/e6/1b/c3/e61bc3b81792571815a652e7625a35bb.jpg" alt="Animationimggirl" width="300">
+</div>
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Katerine-WebDeveloper&color=blue)
